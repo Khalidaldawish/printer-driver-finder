@@ -35,6 +35,9 @@ It displays a list of all detected printers with relevant details.
 For each printer, you can click a button to search for its driver online.
 You can filter, refresh, and view search history.
 Advanced options let you specify which protocols to use and customize the IP range.
+
+
+
 Author & Copyright
 Developer: Khalid Aldawish
 Year: 2025
